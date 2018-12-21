@@ -2,7 +2,7 @@
 
 ## Setup:
 - Compile all java classes in /QuestionServer using "javac *.java"
-- Start up the Question Server with java MainClass
+- Start up the Question Server with "java MainClass"
 - Observe the listening port of the Question Server
 - Start up the Testing Server with python3 TestingServer.py
 - Enter the IPv4 address and port number used by Question Server
@@ -13,6 +13,15 @@
 ## Sample accounts:
 - User:"peter", Password:"cits3002"
 - User:"mary", Password:"orange" 
+  
+Question Server:
+![Alt Text](https://media.giphy.com/media/1foxyJTSruzVwTKcN2/giphy.gif)  
+  
+Testing Server:  
+![Alt Text](https://media.giphy.com/media/ygwZJD0zSqJcJsDRpL/giphy.gif)  
+  
+Programming Quiz Website:  
+![Alt Text](https://media.giphy.com/media/5QXkxncWSfkOvhwc4F/giphy.gif)  
 
 ## Aim of project
 This project creates a multi-choice and programming exam website for new programming students. The students interact with the web browser to access network-based application communicated through with a Testing-Server (software). 
