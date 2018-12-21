@@ -1,0 +1,271 @@
+ID
+0
+TYPE
+0
+BODY
+Consider a C99 function of type void. Which of the following statements is true?
+NUM
+4
+ANS
+The function must have precisely 0 return statements
+The function must have precisely 1 return statements
+The function must have at least 1 return statements
+The function may have any number of return statements
+EXPECTED
+4
+---
+ID
+1
+TYPE
+0
+BODY
+What is the software called that translates code into something meaningful the computer can understand?
+NUM
+3
+ANS
+Translator
+Converter
+Compiler
+EXPECTED
+3
+---
+ID
+2
+TYPE
+1
+BODY
+Write a python script to calculate 2 + 2 and print it.
+EXPECTED
+print(2+2)
+---
+ID
+3
+TYPE
+0
+BODY
+Which of the following is not a python data type?
+NUM
+4
+ANS
+int
+float
+rational
+string
+EXPECTED
+3
+---
+ID
+4
+TYPE
+1
+BODY
+Write a python script to change the food to bacon and eggs in the string: "Looks like jam and toast for breakfast."
+EXPECTED
+print('Looks like bacon and egss for breakfast.')
+---
+ID
+5
+TYPE
+0
+BODY
+Which of the following is not a file reading method in Python?
+NUM
+4
+ANS
+read()
+readline()
+readall()
+readlines()
+EXPECTED
+3
+---
+ID
+6
+TYPE
+1
+BODY
+Write a python pragram to calculate the square root of 8 to three decimal places and print it to output.
+EXPECTED
+print(2.825)
+---
+ID
+7
+TYPE
+0
+BODY
+A Python function definition begins with
+NUM
+4
+ANS
+def
+define
+function
+defun
+EXPECTED
+1
+---
+ID
+8
+TYPE
+1
+BODY
+For a triangle of side lengths 5, 6, 7, write a python program that calculates the area and print the result to two decimal places.
+EXPECTED
+print('14.70')
+---
+ID
+9
+TYPE
+0
+BODY
+If a function returns a value, it should generally be called from:
+NUM
+4
+ANS
+an expression
+a different program
+main
+a cell phone
+EXPECTED
+1
+---
+ID
+10
+TYPE
+1
+BODY
+Write a python program to sum the the first 16 natural numbers and print the result to standard output.
+EXPECTED
+print(sum(range(17)))
+---
+ID
+11
+TYPE
+0
+BODY
+A multiple choice question is most similar to
+NUM
+4
+ANS
+simple decision
+two-way decision
+multi-way decisions
+an exception handler
+EXPECTED
+3
+---
+ID
+12
+TYPE
+1
+BODY
+Write a python program to join the integers from 1 to 15 together in a string without whitespace and print the result to standard output.
+EXPECTED
+print('123456789101112131415')
+---
+ID
+13
+TYPE
+0
+BODY
+Which line would not be found in a truth table for the logical operator 'and'?
+NUM
+4
+ANS
+(T, T) = T
+(T, F) = T
+(F, T) = F 
+(F, F) = F
+EXPECTED
+2
+---
+ID
+14
+TYPE
+1
+BODY
+Write a python program to print the alphabet backwards and in lower case to standard output.
+EXPECTED
+print('abcdefghijklmnopqrstuvwxyz'[::-1])
+---
+ID
+15
+TYPE
+0
+BODY
+The python method that adds a single item to the end of a list is
+NUM
+4
+ANS
+extend(item)
+item.add()
+item.plus()
+append(item)
+EXPECTED
+4
+---
+ID
+16
+TYPE
+1
+BODY
+Write a python program to print the first 10 values of the Fibonnaci sequence, to standard output. With one integer per line.
+EXPECTED
+for f in [0, 1, 1, 2, 3, 5, 8, 13, 21, 34]:
+    print(f)
+---
+ID
+17
+TYPE
+0
+BODY
+Which of the following mathematical techniques is most closely related to recursion.
+NUM
+4
+ANS
+looping
+sequencing
+induction
+contradiction
+EXPECTED
+3
+---
+ID
+18
+TYPE
+1
+BODY
+Write a python program to find the lowest common multiple of two input numbers. Print the lowest common multiple for 54 and 24.
+EXPECTED
+i = 1
+while (true):
+	i *= 24
+	if i % 54 == 0:
+		print(i)
+		break
+---
+ID
+19
+TYPE
+0
+BODY
+Which of the following is not a built-in python function?
+NUM
+4
+ANS
++
+%
+abs()
+sqrt()
+EXPECTED
+4
+---
+ID
+20
+TYPE
+1
+BODY
+The factors of 8 are: 1 2 4 8. Write a python program to find the factors of a number. Print the factors of 320.
+EXPECTED
+print('1 2 4 5 8 10 16 20 32 40 64 80 160 320')
+---
