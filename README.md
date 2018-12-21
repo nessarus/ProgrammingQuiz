@@ -48,6 +48,4 @@ protocols.
 Programming Quiz Servers is a student project from the University of Western Australia course CITS3002 Network and Security. 
 
 ## Our Team
-Jesse Wyatt (20756971)
-Joshua Ng (20163079)
-Hoang Tuan Anh (21749914)
+Jesse Wyatt, Joshua Ng, Hoang Tuan Anh
