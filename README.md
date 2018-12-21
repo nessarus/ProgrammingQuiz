@@ -1,5 +1,5 @@
 # Programming Quiz Servers
-![Alt Text](https://media.giphy.com/media/Ca01p2Iu8taGTQGhHc/giphy.gif)  
+![Alt Text](https://media.giphy.com/media/KyEwVEXK3d9eT9efgg/giphy.gif)  
 
 ## Setup:
 - Compile all java classes in /QuestionServer using "javac *.java"
